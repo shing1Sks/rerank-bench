@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.superpowers/
+data/cache/
+data/corpus/
+data/index.npz
+results/**/cache/
