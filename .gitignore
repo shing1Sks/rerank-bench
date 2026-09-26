@@ -8,3 +8,4 @@ data/cache/
 data/corpus/
 data/index.npz
 results/**/cache/
+docs/reports/*.html
