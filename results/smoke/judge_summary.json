@@ -1,0 +1,44 @@
+{
+  "jev_listwise>jev_pointwise": {
+    "wins": 0,
+    "losses": 0,
+    "ties": 10,
+    "flips": 6,
+    "swap_consistency": 0.4
+  },
+  "nemotron_vl>jev_listwise": {
+    "wins": 0,
+    "losses": 2,
+    "ties": 8,
+    "flips": 2,
+    "swap_consistency": 0.8
+  },
+  "nemotron_vl>jev_pointwise": {
+    "wins": 0,
+    "losses": 2,
+    "ties": 8,
+    "flips": 3,
+    "swap_consistency": 0.7
+  },
+  "nemotron_vl>embed_only": {
+    "wins": 1,
+    "losses": 0,
+    "ties": 9,
+    "flips": 6,
+    "swap_consistency": 0.4
+  },
+  "jev_listwise>embed_only": {
+    "wins": 2,
+    "losses": 0,
+    "ties": 8,
+    "flips": 5,
+    "swap_consistency": 0.5
+  },
+  "jev_pointwise>embed_only": {
+    "wins": 3,
+    "losses": 0,
+    "ties": 7,
+    "flips": 5,
+    "swap_consistency": 0.5
+  }
+}

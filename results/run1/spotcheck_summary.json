@@ -1,0 +1,32 @@
+{
+  "jev_listwise>jev_pointwise": {
+    "kappa": 0.21639541892706443,
+    "n": 50,
+    "flagged": 3
+  },
+  "nemotron_vl>jev_listwise": {
+    "kappa": 0.16871921182266006,
+    "n": 50,
+    "flagged": 4
+  },
+  "nemotron_vl>jev_pointwise": {
+    "kappa": 0.22839506172839508,
+    "n": 50,
+    "flagged": 2
+  },
+  "nemotron_vl>embed_only": {
+    "kappa": 0.3015873015873017,
+    "n": 50,
+    "flagged": 0
+  },
+  "jev_listwise>embed_only": {
+    "kappa": 0.37282229965156793,
+    "n": 50,
+    "flagged": 1
+  },
+  "jev_pointwise>embed_only": {
+    "kappa": 0.19614147909967844,
+    "n": 50,
+    "flagged": 4
+  }
+}
