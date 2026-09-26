@@ -1,0 +1,129 @@
+{
+  "generated": "2026-09-26T21:56:17",
+  "chunk_target_tokens": 500,
+  "chunk_overlap_tokens": 50,
+  "max_pages_pdf": 250,
+  "max_chunks_per_doc": 600,
+  "sources": [
+    {
+      "doc_id": "mobydick",
+      "title": "Moby Dick (Gutenberg)",
+      "license": "public domain",
+      "url": "https://www.gutenberg.org/cache/epub/2701/pg2701.txt",
+      "sha256": "907420db6c4b68c70e2988cd2ad9c8cf79138667a01b63376d18dd17fef1a18b",
+      "pages": 71,
+      "chunks": 600,
+      "status": "ok"
+    },
+    {
+      "doc_id": "constitution",
+      "title": "US Constitution (transcript)",
+      "license": "public domain",
+      "url": "https://www.archives.gov/founding-docs/constitution-transcript",
+      "sha256": "515a6c1c0d94fa26a70c5ef08595bb4e4c85b41396334b7a9ad37a388c0564c7",
+      "pages": 1,
+      "chunks": 14,
+      "status": "ok"
+    },
+    {
+      "doc_id": "scotus",
+      "title": "SCOTUS majority opinion (Obergefell v. Hodges)",
+      "license": "public domain",
+      "url": "https://www.law.cornell.edu/supremecourt/text/14-556",
+      "sha256": "ed126f348104fcbffd40667aca990589ed332b5b6ed6a5fe66c9fcc47e6c6cbf",
+      "pages": 1,
+      "chunks": 94,
+      "status": "ok"
+    },
+    {
+      "doc_id": "openstax_phys",
+      "title": "OpenStax University Physics vol 1",
+      "license": "CC-BY 4.0",
+      "url": "https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/UniversityPhysicsVolume1-LR.pdf",
+      "sha256": "baaa1f5ceef30bb30efbd192375ad6ae89e3baa8ac195ae081542971f3a4343a",
+      "pages": 248,
+      "chunks": 431,
+      "status": "ok"
+    },
+    {
+      "doc_id": "openstax_calc",
+      "title": "OpenStax Calculus vol 1",
+      "license": "CC-BY 4.0",
+      "url": "https://d3bxy9euw4e147.cloudfront.net/oscms-prodcms/media/documents/CalculusVolume1-LR.pdf",
+      "sha256": "d277a1f2d34981dc1691c85edf830e4add9b06c761590bc5c6b09ad83341918a",
+      "pages": 249,
+      "chunks": 322,
+      "status": "ok"
+    },
+    {
+      "doc_id": "d2l",
+      "title": "Dive into Deep Learning",
+      "license": "CC-BY-SA 4.0",
+      "url": "https://d2l.ai/d2l-en.pdf",
+      "sha256": "b3129f44c4a26b534176bb0f83d85e1ed26a6cdf93ebebacb20104eab2d6bc00",
+      "pages": 248,
+      "chunks": 361,
+      "status": "ok"
+    },
+    {
+      "doc_id": "wiki_renaissance",
+      "title": "Wikipedia: Renaissance",
+      "license": "CC-BY-SA 4.0",
+      "url": "https://en.wikipedia.org/wiki/Renaissance",
+      "sha256": "e3abe68bc8524966e0da63333e4072505c74753d4d0114da7cc93d6b3aa18583",
+      "pages": 4,
+      "chunks": 32,
+      "status": "ok"
+    },
+    {
+      "doc_id": "wiki_photosynthesis",
+      "title": "Wikipedia: Photosynthesis",
+      "license": "CC-BY-SA 4.0",
+      "url": "https://en.wikipedia.org/wiki/Photosynthesis",
+      "sha256": "23cf88c6a54696fff045f324f72dcea2c4b49fa845402b40dfbd023d2885527c",
+      "pages": 3,
+      "chunks": 22,
+      "status": "ok"
+    },
+    {
+      "doc_id": "wiki_quantum_mechanics",
+      "title": "Wikipedia: Quantum mechanics",
+      "license": "CC-BY-SA 4.0",
+      "url": "https://en.wikipedia.org/wiki/Quantum_mechanics",
+      "sha256": "77c3d304fbac778b39b4e8a7e35a6870ffe837d5e0ed3d8b0f8155b26c784d37",
+      "pages": 3,
+      "chunks": 25,
+      "status": "ok"
+    },
+    {
+      "doc_id": "wiki_plate_tectonics",
+      "title": "Wikipedia: Plate tectonics",
+      "license": "CC-BY-SA 4.0",
+      "url": "https://en.wikipedia.org/wiki/Plate_tectonics",
+      "sha256": "7a361e6d73140c56262754a6e204703f7f2a315d1a5f3e4e9b9bfa938a201d53",
+      "pages": 4,
+      "chunks": 28,
+      "status": "ok"
+    },
+    {
+      "doc_id": "wiki_french_revolution",
+      "title": "Wikipedia: French Revolution",
+      "license": "CC-BY-SA 4.0",
+      "url": "https://en.wikipedia.org/wiki/French_Revolution",
+      "sha256": "6f00b8d9f8caa0536feaf1a61559125f2fa082b7b49efbb154340bef43188cb5",
+      "pages": 5,
+      "chunks": 40,
+      "status": "ok"
+    },
+    {
+      "doc_id": "wiki_great_barrier_reef",
+      "title": "Wikipedia: Great Barrier Reef",
+      "license": "CC-BY-SA 4.0",
+      "url": "https://en.wikipedia.org/wiki/Great_Barrier_Reef",
+      "sha256": "702349ada1bcf41c8c6ba0b3d19d651aec458a753c7f862b32d89931b8ed0d3d",
+      "pages": 3,
+      "chunks": 23,
+      "status": "ok"
+    }
+  ]
+}
